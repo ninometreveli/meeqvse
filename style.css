@@ -1,3 +1,14 @@
-.heading {
-background-color:#288728;
+html{
+  font-size:20px;  
+}
+.heading{
+    background-color:rgb(136,227,227);
+    padding:1rem;
+    width: 10em;
+}
+p{
+ background-color:brown; 
+ padding:1rem;
+ width:10em;
+ line-height:20px; 
 }
